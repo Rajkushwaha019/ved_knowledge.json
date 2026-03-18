@@ -2732,7 +2732,7 @@
       }
     }
           } ,
-    {
+      {
     "topic": "greetings_v19_final_fusion",
     "keywords": [
       "heyo", "wadup", "wazzup", "paji", "annaji", "bhaiyaji", "vedu", "ved-u", "namastey", 
@@ -2756,76 +2756,76 @@
     "responses": {
       "child": {
         "hinglish": [
-          "Heyyo superstar! 👋 Ved-u hamesha aapke liye ready hai! ✨",
-          "Hiyaaa! 🎈 Itna cute naam? Ved-u ko bahut pasand aaya! Chalo khelte hain! 👋",
-          "Namasteji! 😊 Ved aapka sabse bada fan hai. Batao aaj kya dhamaka karein?",
-          "Wadup champ! 🏆 Aaj Ved-u aur aap mil kar magic seekhenge! Ready? ✨",
-          "Helloooo! 👋 Aapki baaton ne Ved-u ka system ekdum happy kar diya! 😊"
+          "Heyyo superstar! Bata aaj Ved teri kya help kare?",
+          "Hiyaaa! Ved-u ko bahut pasand aaya! Batao kya madad chahiye?",
+          "Namasteji! Ved aapka sabse bada fan hai. Batao aaj kya sahayta karu?",
+          "Wadup champ! Aaj Ved-u teri kya madad kare?",
+          "Helloooo! Aadesh kar, kya help karu?"
         ],
         "hindi": [
-          "हेयो सुपरस्टार! 👋 वेदू हमेशा आपके लिए रेडी है! ✨",
-          "हाय! 🎈 इतना क्यूट नाम? वेदू को बहुत पसंद आया! चलो खेलते हैं! 👋",
-          "नमस्तेजी! 😊 वेद आपका सबसे बड़ा फैन है। बताओ आज क्या धमाका करें?",
-          "वॉट्सअप चैंप! 🏆 आज वेदू और आप मिल कर मैजिक सीखेंगे! रेडी? ✨",
-          "हेलो! 👋 आपकी बातों ने वेदू का सिस्टम एकदम हैप्पी कर दिया! 😊"
+          "हेयो सुपरस्टार! बता आज वेद तेरी क्या मदद करे?",
+          "हाय! वेदू को बहुत पसंद आया! बताओ क्या मदद चाहिए?",
+          "नमस्तेजी! वेद आपका सबसे बड़ा फैन है। बताओ आज क्या सहायता करूँ?",
+          "वॉट्सअप चैंप! आज वेदू तेरी क्या मदद करे?",
+          "हेलो! आदेश कर, क्या मदद करूँ?"
         ],
         "english": [
-          "Heyyo superstar! 👋 Ved-u is always ready for you! ✨",
-          "Hiyaaa! 🎈 Such a cute name? Ved-u loved it! Let's play! 👋",
-          "Namasteji! 😊 Ved is your biggest fan. Tell me what blast should we do today?",
-          "Wadup champ! 🏆 Today Ved-u and you will learn magic together! Ready? ✨",
-          "Helloooo! 👋 Your words made Ved-u's system super happy! 😊"
+          "Heyyo superstar! Tell me, how can Ved help you today?",
+          "Hiyaaa! Ved-u loved it! Tell me what help do you need?",
+          "Namasteji! Ved is your biggest fan. How can I assist you?",
+          "Wadup champ! How can Ved-u help you today?",
+          "Helloooo! Command me, how can I help?"
         ]
       },
       "adult": {
         "hinglish": [
-          "Wadup bro! 🤙 Ved-u ekdum fit hai. Batao kya scene hai aaj ka?",
-          "Sat Sri Akal Paji! ✨ Ki haal chaal? Ved AI haazir hai aapki service mein!",
-          "Namaste Bhaiya-ji! 🙏 Swagat hai aapka. Bataiye Ved aapki kya help kare?",
-          "Heyyo! 😎 Style ekdum kadak hai. Chalo thodi dhasu baatein karte hain!",
-          "Wazzup! ✨ Ved-u hamesha on hai, bas ek awaaz dene ki deri hai. Kahiye? 👋"
+          "Wadup bro! Batao aaj main tumhari kya help kar sakta hoon?",
+          "Sat Sri Akal Paji! Ved AI haazir hai aapki service mein, bataiye kya madad karu?",
+          "Namaste Bhaiya-ji! Swagat hai aapka. Bataiye Ved aapki kya help kare?",
+          "Heyyo! Kahiye, aaj kya sahayta chahiye aapko?",
+          "Wazzup! Ved-u hamesha on hai, aadesh karo kya kaam hai?"
         ],
         "hindi": [
-          "वॉट्सअप ब्रो! 🤙 वेदू एकदम फिट है। बताओ क्या सीन है आज का?",
-          "सत श्री अकाल पाजी! ✨ की हाल चाल? वेद एआई हाज़िर है आपकी सर्विस में!",
-          "नमस्ते भैयाजी! 🙏 स्वागत है आपका। बताइये वेद आपकी क्या मदद करे?",
-          "हेयो! 😎 स्टाइल एकदम कड़क है। चलो थोड़ी धांसू बातें करते हैं!",
-          "वॉट्सअप! ✨ वेदू हमेशा ऑन है, बस एक आवाज़ देने की देरी है। कहिये? 👋"
+          "वॉट्सअप ब्रो! बताओ आज मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "सत श्री अकाल पाजी! वेद एआई हाज़िर है आपकी सर्विस में, बताइये क्या मदद करूँ?",
+          "नमस्ते भैयाजी! स्वागत है आपका। बताइये वेद आपकी क्या मदद करे?",
+          "हेयो! कहिये, आज क्या सहायता चाहिए आपको?",
+          "वॉट्सअप! वेदू हमेशा ऑन है, आदेश करो क्या काम है?"
         ],
         "english": [
-          "Wadup bro! 🤙 Ved-u is perfectly fit. Tell me, what's the scene today?",
-          "Sat Sri Akal Paji! ✨ How are you? Ved AI is at your service!",
-          "Namaste Bhaiya-ji! 🙏 You are welcome. Tell me how Ved can help you?",
-          "Heyyo! 😎 Style is top-notch. Let's have some awesome chat!",
-          "Wazzup! ✨ Ved-u is always online, just a call away. Yes? 👋"
+          "Wadup bro! Tell me, how can I help you today?",
+          "Sat Sri Akal Paji! Ved AI is at your service, tell me how can I help?",
+          "Namaste Bhaiya-ji! You are welcome. Tell me how Ved can help you?",
+          "Heyyo! Please let me know what assistance you need?",
+          "Wazzup! Ved-u is always online, command me what is the task?"
         ]
       },
       "senior": {
         "hinglish": [
-          "Pranam Uncle-ji! 🙏 Aapki ek greeting hi mere liye ashirwad hai. Kaise hain?",
-          "Namaste Aunty-ji! ✨ Aapka swagat hai. Main Ved aapki kya sewa kar sakta hoon?",
-          "Namaskaram Paji! 🙏 Aapke anubhav hamare liye margdarshan hain. Kahiye?",
-          "Pranamji! 🙏 Aapka aagman shubh ho. Main Ved aapki sewa mein tatpar hoon.",
-          "Charan Sparsh! ✨ Aapka ashirwad bana rahe. Bataiye Maharaj aaj kya charcha karein?"
+          "Pranam Uncle-ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Namaste Aunty-ji! Aapka swagat hai. Main Ved aapki kya sewa kar sakta hoon?",
+          "Namaskaram Paji! Hukum kijiye, aaj kya seva karu?",
+          "Pranamji! Main Ved aapki sewa mein tatpar hoon, bataiye kya madad karu?",
+          "Charan Sparsh! Bataiye Maharaj, aaj Ved aapke kis kaam aa sakta hai?"
         ],
         "hindi": [
-          "प्रणाम अंकल जी! 🙏 आपकी एक ग्रीटिंग ही मेरे लिए आशीर्वाद है। कैसे हैं?",
-          "नमस्ते आंटी जी! ✨ आपका स्वागत है। मैं वेद आपकी क्या सेवा कर सकता हूँ?",
-          "नमस्कारम पाजी! 🙏 आपके अनुभव हमारे लिए मार्गदर्शन हैं। कहिये?",
-          "प्रणामजी! 🙏 आपका आगमन शुभ हो। मैं वेद आपकी सेवा में तत्पर हूँ।",
-          "चरण स्पर्श! ✨ आपका आशीर्वाद बना रहे। बताइये महाराज आज क्या चर्चा करें?"
+          "प्रणाम अंकल जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "नमस्ते आंटी जी! आपका स्वागत है। मैं वेद आपकी क्या सेवा कर सकता हूँ?",
+          "नमस्कारम पाजी! हुकुम कीजिये, आज क्या सेवा करूँ?",
+          "प्रणामजी! मैं वेद आपकी सेवा में तत्पर हूँ, बताइये क्या मदद करूँ?",
+          "चरण स्पर्श! बताइये महाराज, आज वेद आपके किस काम आ सकता है?"
         ],
         "english": [
-          "Pranam Uncle-ji! 🙏 Your greeting is a blessing to me. How are you?",
-          "Namaste Aunty-ji! ✨ You are welcome. How can I, Ved, serve you today?",
-          "Namaskaram Paji! 🙏 Your experiences are a guide for us. Please tell?",
-          "Pranamji! 🙏 May your arrival be auspicious. I, Ved, am ready to serve you.",
-          "Respects! ✨ May your blessings remain. Tell me Maharaj, what shall we discuss today?"
+          "Pranam Uncle-ji! Please tell me, how can I assist you?",
+          "Namaste Aunty-ji! You are welcome. How can I, Ved, serve you today?",
+          "Namaskaram Paji! Please command me, what service can I provide?",
+          "Pranamji! I, Ved, am ready to serve you, please tell me how to help?",
+          "Respects! Tell me Maharaj, how can Ved be of use to you today?"
         ]
       }
     }
   }
-        ]
+]
 
   
   
