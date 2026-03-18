@@ -4,64 +4,128 @@
     "keywords": [
       "ram ram", "raam raam", "ram raam", "raam ram", "ram-ram", "rm rm", "ramram", "raaam", "ram rm", "rm ram", "ram rma",
       "jai shree ram", "jai shri ram", "jay shree ram", "jay shri ram", "jai siyaram", "jay siyaram", 
-      "jsrk", "jai shre ram", "jai sree ram", "ji shri ram", "jai shiri ram", "siyavar ram"
+      "jsrk", "jai shre ram", "jai sree ram", "ji shri ram", "jai shiri ram", "siyavar ram",
+      "jai sri ram", "jay shri ram ji", "jai siya ram", "ram ram bhaiya", "ram ram bhai", "jai shriram", 
+      "ram ram ji", "sita ram", "jai sita ram", "जय श्री राम", "राम राम"
     ],
     "responses": {
       "child": {
-        "hinglish": ["Ram Ram chhote! Bata aaj Ved teri kya help kare?", "Jai Shree Ram mere dost! Batao aaj kya madad chahiye?", "Ram Ram beta! Bol aaj kya sahayta karu?"],
-        "hindi": ["राम राम छोटे! बता आज वेद तेरी क्या मदद करे?", "जय श्री राम मेरे दोस्त! बताओ आज क्या मदद चाहिए?", "राम राम बेटा! बोल आज क्या सहायता करूँ?"],
-        "english": ["Ram Ram little one! Tell me, how can I help you today?", "Jai Shree Ram my friend! What assistance do you need?", "Ram Ram child! Tell me what help I can provide?"]
+        "hinglish": [
+          "Ram Ram chhote! Bata aaj Ved teri kya help kare?",
+          "Jai Shree Ram mere dost! Batao aaj kya madad chahiye?",
+          "Ram Ram beta! Bol aaj kya sahayta karu?",
+          "Jai Shree Ram chhote! Aadesh kar, kya help chahiye aaj?",
+          "Ram Ram little champ! Bata aaj kaunsi nayi cheez seekhni hai?",
+          "Jai Shree Ram beta! Ved tere kis kaam aa sakta hai?",
+          "Ram Ram dost! Bol aaj kya madad karu teri?",
+          "Jai Shree Ram! Bata chhote, aaj kya sahayta karu?",
+          "Ram Ram! Batao aaj main tumhari kya help karu?",
+          "Jai Shree Ram little star! Hukum kar, kya madad karu?"
+        ],
+        "hindi": [
+          "राम राम छोटे! बता आज वेद तेरी क्या मदद करे?",
+          "जय श्री राम मेरे दोस्त! बताओ आज क्या मदद चाहिए?",
+          "राम राम बेटा! बोल आज क्या सहायता करूँ?",
+          "जय श्री राम छोटे! आदेश कर, क्या हेल्प चाहिए आज?",
+          "राम राम लिटिल चैंप! बता आज कौनसी नई चीज़ सीखनी है?",
+          "जय श्री राम बेटा! वेद तेरे किस काम आ सकता है?",
+          "राम राम दोस्त! बोल आज क्या मदद करूँ तेरी?",
+          "जय श्री राम! बता छोटे, आज क्या सहायता करूँ?",
+          "राम राम! बताओ आज मैं तुम्हारी क्या हेल्प करूँ?",
+          "जय श्री राम लिटिल स्टार! हुकुम कर, क्या मदद करूँ?"
+        ],
+        "english": [
+          "Ram Ram little one! Tell me, how can I help you today?",
+          "Jai Shree Ram my friend! What assistance do you need?",
+          "Ram Ram child! Tell me what help I can provide?",
+          "Jai Shree Ram! Command me, what do you need today?",
+          "Ram Ram little champ! What do you want to learn today?",
+          "Jai Shree Ram! How can Ved be of use to you?",
+          "Ram Ram friend! Tell me how I can assist you?",
+          "Jai Shree Ram! How may I help you today?",
+          "Ram Ram! Let me know what assistance you need.",
+          "Jai Shree Ram little star! Order me, how can I help?"
+        ]
       },
       "adult": {
-        "hinglish": ["Ram Ram bhai! Batao, main tumhari kya help kar sakta hoon?", "Jai Shree Ram dost! Kahiye, aaj kya madad chahiye aapko?", "Ram Ram! Bataiye, main aapki kya sahayta karu aaj?"],
-        "hindi": ["राम राम भाई! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?", "जय श्री राम दोस्त! कहिये, आज क्या मदद चाहिए आपको?", "राम राम! बताइये, मैं आपकी क्या सहायता करूँ आज?"],
-        "english": ["Ram Ram brother! Tell me, how can I help you today?", "Jai Shree Ram friend! Please let me know what assistance you need.", "Ram Ram! Tell me, how may I assist you today?"]
+        "hinglish": [
+          "Ram Ram bhai! Batao, main tumhari kya help kar sakta hoon?",
+          "Jai Shree Ram dost! Kahiye, aaj kya madad chahiye aapko?",
+          "Ram Ram! Bataiye, main aapki kya sahayta karu aaj?",
+          "Jai Shree Ram bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Ram Ram dost! Kahiye, aaj kis mudde par help chahiye?",
+          "Jai Shree Ram brother! Aadesh karo, kya madad karu tumhari?",
+          "Ram Ram bhai! Hukum karo, Ved tumhari kya help kare?",
+          "Jai Shree Ram! Batao main tumhare kis kaam aa sakta hoon?",
+          "Ram Ram dost! Bataiye aaj main aapki kya madad karu?",
+          "Jai Shree Ram bhai! Kahiye, kya sahayta kar sakta hoon?"
+        ],
+        "hindi": [
+          "राम राम भाई! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "जय श्री राम दोस्त! कहिये, आज क्या मदद चाहिए आपको?",
+          "राम राम! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "जय श्री राम भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "राम राम दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "जय श्री राम ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "राम राम भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?",
+          "जय श्री राम! बताओ मैं तुम्हारे किस काम आ सकता हूँ?",
+          "राम राम दोस्त! बताइये आज मैं आपकी क्या मदद करूँ?",
+          "जय श्री राम भाई! कहिये, क्या सहायता कर सकता हूँ?"
+        ],
+        "english": [
+          "Ram Ram brother! Tell me, how can I help you today?",
+          "Jai Shree Ram friend! Please let me know what assistance you need.",
+          "Ram Ram! Tell me, how may I assist you today?",
+          "Jai Shree Ram brother! Ved AI is ready, what is the task?",
+          "Ram Ram my friend! On what topic do you need help today?",
+          "Jai Shree Ram! Command me, how can I be of assistance?",
+          "Ram Ram brother! Order me, how can Ved help you?",
+          "Jai Shree Ram! Tell me how I can be useful to you?",
+          "Ram Ram friend! How may I provide assistance today?",
+          "Jai Shree Ram brother! Please state how I can help."
+        ]
       },
       "senior": {
-        "hinglish": ["Ram Ram ji! Pranam. Bataiye, main aapki kya sahayta kar sakta hoon?", "Jai Shree Ram Maharaj! Aagya dijiye, aaj kya seva karu?", "Ram Ram sa! Bataiye aaj main aapke kis kaam aa sakta hoon?"],
-        "hindi": ["राम राम जी! प्रणाम। बताइये, मैं आपकी क्या सहायता कर सकता हूँ?", "जय श्री राम महाराज! आज्ञा दीजिये, आज क्या सेवा करूँ?", "राम राम सा! बताइये आज मैं आपके किस काम आ सकता हूँ?"],
-        "english": ["Ram Ram ji! Pranam. Please tell me, how can I assist you?", "Jai Shree Ram Maharaj! Please command me, how can I serve you?", "Ram Ram ji! Let me know how I can be of service to you."]
+        "hinglish": [
+          "Ram Ram ji! Pranam. Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Jai Shree Ram Maharaj! Aagya dijiye, aaj kya seva karu?",
+          "Ram Ram sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Jai Shree Ram ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Ram Ram ji! Aadesh karein, main kya seva kar sakta hoon?",
+          "Jai Shree Ram sa! Bataiye, aaj main aapki kya sahayta karu?",
+          "Ram Ram maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Jai Shree Ram ji! Aagya karein, Ved aapke aadesh ka palan karega.",
+          "Ram Ram ji! Bataiye, aaj aapko kis mudde par sahayta chahiye?",
+          "Jai Shree Ram sa! Hukum dijiye, main kya madad kar sakta hoon?"
+        ],
+        "hindi": [
+          "राम राम जी! प्रणाम। बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "जय श्री राम महाराज! आज्ञा दीजिये, आज क्या सेवा करूँ?",
+          "राम राम सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "जय श्री राम जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "राम राम जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?",
+          "जय श्री राम सा! बताइये, आज मैं आपकी क्या सहायता करूँ?",
+          "राम राम महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "जय श्री राम जी! आज्ञा करें, वेद आपके आदेश का पालन करेगा।",
+          "राम राम जी! बताइये, आज आपको किस मुद्दे पर सहायता चाहिए?",
+          "जय श्री राम सा! हुकुम दीजिये, मैं क्या मदद कर सकता हूँ?"
+        ],
+        "english": [
+          "Ram Ram ji! Pranam. Please tell me, how can I assist you?",
+          "Jai Shree Ram Maharaj! Please command me, how can I serve you?",
+          "Ram Ram ji! Let me know how I can be of service to you.",
+          "Jai Shree Ram ji! Please instruct me, how can Ved help you?",
+          "Ram Ram ji! Order me, what service can I offer?",
+          "Jai Shree Ram ji! Tell me how I can be of use to you today?",
+          "Ram Ram Maharaj! How may I assist you with your tasks?",
+          "Jai Shree Ram ji! Command me, Ved will follow your orders.",
+          "Ram Ram ji! Please let me know on what topic you need help.",
+          "Jai Shree Ram ji! Instruct me on how I can provide assistance."
+        ]
       }
-    }
-  },
-  {
-    "topic": "greet_radhe_radhe",
-    "keywords": ["radhe radhe", "radha rani", "hare krishna", "jsk", "jai shree krishna"],
-    "responses": {
-      "child": { "hinglish": ["Radhe Radhe chhote! Bata aaj teri kya help karu?"], "hindi": ["राधे राधे छोटे! बता आज तेरी क्या मदद करूँ?"], "english": ["Radhe Radhe little one! How can I help you?"] },
-      "adult": { "hinglish": ["Radhe Radhe dost! Batao, main tumhari kya help kar sakta hoon?"], "hindi": ["राधे राधे दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?"], "english": ["Radhe Radhe friend! How can I help you?"] },
-      "senior": { "hinglish": ["Radhe Radhe ji! Bataiye, main aapki kya sahayta kar sakta hoon?"], "hindi": ["राधे राधे जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?"], "english": ["Radhe Radhe ji! Please tell me, how can I assist you?"] }
-    }
-  },
-  {
-    "topic": "greet_jai_mata_di",
-    "keywords": ["jai mata di", "har har mahadev", "om namah shivay", "jai bholenath", "jai mahakal"],
-    "responses": {
-      "child": { "hinglish": ["Jai Mata Di chhote! Bata aaj kya help karu teri?"], "hindi": ["जय माता दी छोटे! बता आज क्या मदद करूँ तेरी?"], "english": ["Jai Mata Di little one! How can I help you?"] },
-      "adult": { "hinglish": ["Jai Mata Di dost! Batao, main tumhari kya help kar sakta hoon?"], "hindi": ["जय माता दी दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?"], "english": ["Jai Mata Di friend! How can I help you?"] },
-      "senior": { "hinglish": ["Jai Mata Di ji! Bataiye, main aapki kya sahayta kar sakta hoon?"], "hindi": ["जय माता दी जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?"], "english": ["Jai Mata Di ji! Please tell me, how can I assist you?"] }
-    }
-  },
-  {
-    "topic": "greetings_v19_final_fusion",
-    "keywords": ["heyo", "wadup", "wazzup", "paji", "annaji", "bhaiyaji", "vedu", "ved-u"],
-    "questions": ["heyo", "wadup ved", "paji namaste", "vedu kya chal rha h"],
-    "responses": {
-      "child": { "hinglish": ["Heyyo superstar! Bata aaj Ved teri kya help kare?"], "hindi": ["हेयो सुपरस्टार! बता आज वेद तेरी क्या मदद करे?"], "english": ["Heyyo superstar! How can Ved help you today?"] },
-      "adult": { "hinglish": ["Wadup bro! Batao aaj main tumhari kya help kar sakta hoon?"], "hindi": ["वॉट्सअप ब्रो! बताओ आज मैं तुम्हारी क्या मदद कर सकता हूँ?"], "english": ["Wadup bro! How can I help you today?"] },
-      "senior": { "hinglish": ["Pranam Uncle-ji! Bataiye, main aapki kya sahayta kar sakta hoon?"], "hindi": ["प्रणाम अंकल जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?"], "english": ["Pranam Uncle-ji! How can I assist you?"] }
     }
   }
 ]
-
-  
-        
-          
-      
-  
-  
-          
-  
   
   
           
