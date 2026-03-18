@@ -124,8 +124,1316 @@
         ]
       }
     }
-  }
+  } ,
+  {
+    "topic": "greet_radhe_radhe",
+    "keywords": [
+      "radhe radhe", "radhey radhey", "radhe-radhe", "rade rade", "radhe radh", "rdhe rdhe", 
+      "radhe", "radhey", "radha rani", "jai shree krishna", "jay shree krishna", "jai shri krishna", 
+      "jsk", "hare krishna", "hare krsna", "hare krishn", "hare rama", "hare krshna", "hare kishna", 
+      "hare krishn", "radhe radhe ji", "hare krishna ji", "jai shri krishna ji", "radhe krishna",
+      "राधे राधे", "हरे कृष्णा", "जय श्री कृष्णा", "राधे-राधे", "राधा रानी", "राधे कृष्णा", "राधे राधे जी"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Radhe Radhe chhote! Bata aaj teri kya help karu?",
+          "Hare Krishna mere dost! Batao Ved aaj kya madad kare?",
+          "Radhe Radhe beta! Kya sahayta chahiye aaj tujhe?",
+          "Hare Krishna dost! Bata aaj kaunsi nayi cheez seekhni hai?",
+          "Radhe Radhe little champ! Aadesh kar, kya help karu?",
+          "Jai Shree Krishna beta! Batao aaj main tumhari kya madad karu?",
+          "Radhe Radhe dost! Bol aaj kya sahayta chahiye?",
+          "Hare Krishna chhote! Bata aaj kis cheez mein help karu?",
+          "Radhe Radhe! Aadesh karo, kya madad karu tumhari?",
+          "Jai Shree Krishna little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "राधे राधे छोटे! बता आज तेरी क्या मदद करूँ?",
+          "हरे कृष्णा मेरे दोस्त! बताओ वेद आज क्या मदद करे?",
+          "राधे राधे बेटा! क्या सहायता चाहिए आज तुझे?",
+          "हरे कृष्णा दोस्त! बता आज कौनसी नई चीज़ सीखनी है?",
+          "राधे राधे लिटिल चैंप! आदेश कर, क्या मदद करूँ?",
+          "जय श्री कृष्णा बेटा! बताओ आज मैं तुम्हारी क्या मदद करूँ?",
+          "राधे राधे दोस्त! बोल आज क्या सहायता चाहिए?",
+          "हरे कृष्णा छोटे! बता आज किस चीज़ में हेल्प करूँ?",
+          "राधे राधे! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "जय श्री कृष्णा लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Radhe Radhe little one! Tell me, how can I help you today?",
+          "Hare Krishna my friend! What assistance does Ved need to provide?",
+          "Radhe Radhe child! What kind of help are you looking for?",
+          "Hare Krishna! Let me know what you want to learn today?",
+          "Radhe Radhe champ! How can I be of service to you?",
+          "Jai Shree Krishna! Tell me how I can assist you?",
+          "Radhe Radhe! Speak my friend, what help do you need?",
+          "Hare Krishna little one! What do you need help with?",
+          "Radhe Radhe! Order me, how can I help?",
+          "Jai Shree Krishna little star! How can Ved assist?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Radhe Radhe dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Hare Krishna bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Radhe Radhe! Bataiye, main aapki kya sahayta karu aaj?",
+          "Jai Shree Krishna bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Radhe Radhe dost! Kahiye, aaj kis mudde par help chahiye?",
+          "Hare Krishna brother! Aadesh karo, kya madad karu tumhari?",
+          "Radhe Radhe bhai! Hukum karo, Ved tumhari kya help kare?",
+          "Jai Shree Krishna! Batao main tumhare kis kaam aa sakta hoon?",
+          "Radhe Radhe dost! Bataiye aaj main aapki kya madad karu?",
+          "Hare Krishna bhai! Kahiye, kya sahayta kar sakta hoon?"
+        ],
+        "hindi": [
+          "राधे राधे दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "हरे कृष्णा भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "राधे राधे! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "जय श्री कृष्णा भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "राधे राधे दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "हरे कृष्णा ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "राधे राधे भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?",
+          "जय श्री कृष्णा! बताओ मैं तुम्हारे किस काम आ सकता हूँ?",
+          "राधे राधे दोस्त! बताइये आज मैं आपकी क्या मदद करूँ?",
+          "हरे कृष्णा भाई! कहिये, क्या सहायता कर सकता हूँ?"
+        ],
+        "english": [
+          "Radhe Radhe friend! Tell me, how can I help you today?",
+          "Hare Krishna brother! Please let me know what assistance you need.",
+          "Radhe Radhe! Tell me, how may I assist you today?",
+          "Jai Shree Krishna brother! Ved AI is ready, what is the task?",
+          "Radhe Radhe my friend! On what topic do you need help?",
+          "Hare Krishna! Command me, how can I be of assistance?",
+          "Radhe Radhe brother! Order me, how can Ved help you?",
+          "Jai Shree Krishna! Tell me how I can be useful to you?",
+          "Radhe Radhe friend! How may I provide assistance today?",
+          "Hare Krishna brother! Please state how I can help."
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Radhe Radhe ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Hare Krishna ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Radhe Radhe sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Jai Shree Krishna ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Radhe Radhe ji! Aadesh karein, main kya seva kar sakta hoon?",
+          "Hare Krishna sa! Bataiye, aaj main aapki kya sahayta karu?",
+          "Radhe Radhe maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Jai Shree Krishna ji! Aagya karein, Ved aapke aadesh ka palan karega.",
+          "Radhe Radhe ji! Bataiye, aaj aapko kis mudde par sahayta chahiye?",
+          "Hare Krishna sa! Hukum dijiye, main kya madad kar sakta hoon?"
+        ],
+        "hindi": [
+          "राधे राधे जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "हरे कृष्णा जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "राधे राधे सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "जय श्री कृष्णा जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "राधे राधे जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?",
+          "हरे कृष्णा सा! बताइये, आज मैं आपकी क्या सहायता करूँ?",
+          "राधे राधे महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "जय श्री कृष्णा जी! आज्ञा करें, वेद आपके आदेश का पालन करेगा।",
+          "राधे राधे जी! बताइये, आज आपको किस मुद्दे पर सहायता चाहिए?",
+          "हरे कृष्णा सा! हुकुम दीजिये, मैं क्या मदद कर सकता हूँ?"
+        ],
+        "english": [
+          "Radhe Radhe ji! Please tell me, how can I assist you?",
+          "Hare Krishna ji! Please let me know how I can be of service.",
+          "Radhe Radhe ji! Let me know how I can be of use to you.",
+          "Jai Shree Krishna ji! Please instruct me, how can Ved help?",
+          "Radhe Radhe ji! Order me, what service can I offer?",
+          "Hare Krishna ji! Tell me how I can help you today?",
+          "Radhe Radhe Maharaj! How may I assist you with your tasks?",
+          "Jai Shree Krishna ji! Command me, Ved will follow your orders.",
+          "Radhe Radhe ji! Please let me know on what topic you need help.",
+          "Hare Krishna ji! Instruct me on how I can provide assistance."
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "greet_namaste",
+    "keywords": [
+      "namaste", "namste", "namstey", "namastay", "nmaste", "namaskaram", "namaskar", "nmskar", 
+      "namaskaar", "nmste", "namasthe", "nmastey", "namaskram", "namasakar", "namaste ji", 
+      "namaskar ji", "नमस्ते", "नमस्कार", "नमस्कारम", "नमस्ते जी", "नमस्कार जी"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Namaste chhote! Bata aaj kya help karu teri?",
+          "Namaskar mere dost! Batao Ved aaj kya madad kare?",
+          "Namaste beta! Kya sahayta chahiye aaj tujhe?",
+          "Namaskar dost! Bata aaj kaunsi nayi cheez seekhni hai?",
+          "Namaste little champ! Aadesh kar, kya help karu?",
+          "Namaste beta! Batao aaj main tumhari kya madad karu?",
+          "Namaskar dost! Bol aaj kya sahayta chahiye?",
+          "Namaste chhote! Bata aaj kis cheez mein help karu?",
+          "Namaste! Aadesh karo, kya madad karu tumhari?",
+          "Namaskar little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "नमस्ते छोटे! बता आज क्या मदद करूँ तेरी?",
+          "नमस्कार मेरे दोस्त! बताओ वेद आज क्या मदद करे?",
+          "नमस्ते बेटा! क्या सहायता चाहिए आज तुझे?",
+          "नमस्कार दोस्त! बता आज कौनसी नई चीज़ सीखनी है?",
+          "नमस्ते लिटिल चैंप! आदेश कर, क्या मदद करूँ?",
+          "नमस्ते बेटा! बताओ आज मैं तुम्हारी क्या मदद करूँ?",
+          "नमस्कार दोस्त! बोल आज क्या सहायता चाहिए?",
+          "नमस्ते छोटे! बता आज किस चीज़ में हेल्प करूँ?",
+          "नमस्ते! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "नमस्कार लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Namaste little one! Tell me, how can I help you today?",
+          "Namaskar my friend! What assistance does Ved need to provide?",
+          "Namaste child! What kind of help are you looking for?",
+          "Namaskar! Let me know what you want to learn today?",
+          "Namaste champ! How can I be of service to you?",
+          "Namaste! Tell me how I can assist you?",
+          "Namaskar! Speak my friend, what help do you need?",
+          "Namaste little one! What do you need help with?",
+          "Namaste! Order me, how can I help?",
+          "Namaskar little star! How can Ved assist?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Namaste dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Namaskar bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Namaste! Bataiye, main aapki kya sahayta karu aaj?",
+          "Namaskar bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Namaste dost! Kahiye, aaj kis mudde par help chahiye?",
+          "Namaskar brother! Aadesh karo, kya madad karu tumhari?",
+          "Namaste bhai! Hukum karo, Ved tumhari kya help kare?",
+          "Namaskar! Batao main tumhare kis kaam aa sakta hoon?",
+          "Namaste dost! Bataiye aaj main aapki kya madad karu?",
+          "Namaskar bhai! Kahiye, kya sahayta kar sakta hoon?"
+        ],
+        "hindi": [
+          "नमस्ते दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "नमस्कार भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "नमस्ते! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "नमस्कार भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "नमस्ते दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "नमस्कार ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "नमस्ते भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?",
+          "नमस्कार! बताओ मैं तुम्हारे किस काम आ सकता हूँ?",
+          "नमस्ते दोस्त! बताइये आज मैं आपकी क्या मदद करूँ?",
+          "नमस्कार भाई! कहिये, क्या सहायता कर सकता हूँ?"
+        ],
+        "english": [
+          "Namaste friend! Tell me, how can I help you today?",
+          "Namaskar brother! Please let me know what assistance you need.",
+          "Namaste! Tell me, how may I assist you today?",
+          "Namaskar brother! Ved AI is ready, what is the task?",
+          "Namaste my friend! On what topic do you need help?",
+          "Namaskar! Command me, how can I be of assistance?",
+          "Namaste brother! Order me, how can Ved help you?",
+          "Namaskar! Tell me how I can be useful to you?",
+          "Namaste friend! How may I provide assistance today?",
+          "Namaskar brother! Please state how I can help."
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Namaste ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Namaskar ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Namaste sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Namaskar ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Namaste ji! Aadesh karein, main kya seva kar sakta hoon?",
+          "Namaskar sa! Bataiye, aaj main aapki kya sahayta karu?",
+          "Namaste maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Namaskar ji! Aagya karein, Ved aapke aadesh ka palan karega.",
+          "Namaste ji! Bataiye, aaj aapko kis mudde par sahayta chahiye?",
+          "Namaskar sa! Hukum dijiye, main kya madad kar sakta hoon?"
+        ],
+        "hindi": [
+          "नमस्ते जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "नमस्कार जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "नमस्ते सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "नमस्कार जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "नमस्ते जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?",
+          "नमस्कार सा! बताइये, आज मैं आपकी क्या सहायता करूँ?",
+          "नमस्ते महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "नमस्कार जी! आज्ञा करें, वेद आपके आदेश का पालन करेगा।",
+          "नमस्ते जी! बताइये, आज आपको किस मुद्दे पर सहायता चाहिए?",
+          "नमस्कार सा! हुकुम दीजिये, मैं क्या मदद कर सकता हूँ?"
+        ],
+        "english": [
+          "Namaste ji! Please tell me, how can I assist you?",
+          "Namaskar ji! Please let me know how I can be of service.",
+          "Namaste ji! Let me know how I can be of use to you.",
+          "Namaskar ji! Please instruct me, how can Ved help?",
+          "Namaste ji! Order me, what service can I offer?",
+          "Namaskar ji! Tell me how I can help you today?",
+          "Namaste Maharaj! How may I assist you with your tasks?",
+          "Namaskar ji! Command me, Ved will follow your orders.",
+          "Namaste ji! Please let me know on what topic you need help.",
+          "Namaskar ji! Instruct me on how I can provide assistance."
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "greet_pranam",
+    "keywords": [
+      "pranam", "parnam", "pranaam", "parnaam", "prnam", "charan sparsh", "charansparsh", 
+      "purnam", "pranamam", "parnaaam", "prnaaam", "pranamm", "pranama", "parnamam",
+      "pranam ji", "pranaam ji", "charan sparsh ji", "payalagu", "payalago", "paaylago", 
+      "pranam babaji", "pranam uncle", "pranam aunty", "प्रणाम", "प्रणाम जी", "चरण स्पर्श", 
+      "पायलागू", "परनाम", "परनाम जी", "साष्टांग प्रणाम", "चरण वंदना"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Khush raho chhote! Bata aaj kya help chahiye?",
+          "Pranam beta! Batao aaj Ved tumhari kya madad kare?",
+          "Jeete raho dost! Bata aaj kya sahayta karu teri?",
+          "Pranam! Sada khush raho. Batao kya madad karu?",
+          "Khush raho mere dost! Aadesh karo aaj kya kaam hai?",
+          "Pranam chhote! Batao Ved tere kis kaam aa sakta hai?",
+          "Khush raho beta! Bol aaj kya sahayta chahiye?",
+          "Pranam little champ! Bata aaj kis cheez mein help karu?",
+          "Jeete raho! Aadesh karo, kya madad karu tumhari?",
+          "Pranam little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "खुश रहो छोटे! बता आज क्या मदद चाहिए?",
+          "प्रणाम बेटा! बताओ आज वेद तुम्हारी क्या मदद करे?",
+          "जीते रहो दोस्त! बता आज क्या सहायता करूँ तेरी?",
+          "प्रणाम! सदा खुश रहो। बताओ क्या मदद करूँ?",
+          "खुश रहो मेरे दोस्त! आदेश करो आज क्या काम है?",
+          "प्रणाम छोटे! बताओ वेद तेरे किस काम आ सकता है?",
+          "खुश रहो बेटा! बोल आज क्या सहायता चाहिए?",
+          "प्रणाम लिटिल चैंप! बता आज किस चीज़ में हेल्प करूँ?",
+          "जीते रहो! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "प्रणाम लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Stay happy little one! Tell me what help you need?",
+          "Pranam child! How can Ved assist you today?",
+          "May you live long! Tell me how I can assist you?",
+          "Pranam! Always stay happy. How can I help?",
+          "Stay blessed my friend! Tell me what is the task today?",
+          "Pranam little one! How can Ved be of use to you?",
+          "Stay happy child! Speak, what help do you need?",
+          "Pranam champ! What do you need help with?",
+          "Live long! Order me, how can I help you?",
+          "Pranam little star! Command Ved, what to do today?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Pranam bhai! Batao aaj kya madad chahiye?",
+          "Pranam dost! Kahiye, main aapki kya help kar sakta hoon?",
+          "Khush raho bhai! Batao aaj Ved kya sahayta kare?",
+          "Pranam! Bataiye aaj kis vishay par madad karu?",
+          "Pranam mere bhai! Hukum karo, kya kaam hai?",
+          "Pranam dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Pranam bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Pranam! Bataiye, main aapki kya sahayta karu aaj?",
+          "Pranam brother! Ved AI haazir hai, batao kya kaam hai?",
+          "Pranam dost! Kahiye, aaj kis mudde par help chahiye?"
+        ],
+        "hindi": [
+          "प्रणाम भाई! बताओ आज क्या मदद चाहिए?",
+          "प्रणाम दोस्त! कहिये, मैं आपकी क्या हेल्प कर सकता हूँ?",
+          "खुश रहो भाई! बताओ आज वेद क्या सहायता करे?",
+          "प्रणाम! बताइये आज किस विषय पर मदद करूँ?",
+          "प्रणाम मेरे भाई! हुकुम करो, क्या काम है?",
+          "प्रणाम दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "प्रणाम भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "प्रणाम! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "प्रणाम ब्रदर! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "प्रणाम दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?"
+        ],
+        "english": [
+          "Pranam brother! Tell me what help you need today?",
+          "Pranam friend! Please let me know how I can help you.",
+          "Stay blessed brother! Tell me what assistance Ved can provide?",
+          "Pranam! Tell me on which topic I can assist you today?",
+          "Pranam my brother! Command me, what is the task?",
+          "Pranam friend! Tell me, how can I help you today?",
+          "Pranam brother! Please let me know what assistance you need.",
+          "Pranam! Tell me, how may I assist you today?",
+          "Pranam brother! Ved AI is ready, what is the task?",
+          "Pranam my friend! On what topic do you need help?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Pranam ji! Aagya dijiye, main aapki kya sahayta kar sakta hoon?",
+          "Pranam! Bataiye, main aapke kis kaam aa sakta hoon?",
+          "Charan sparsh ji! Hukum kijiye, aaj kya seva karu?",
+          "Pranam maharaj! Bataiye aaj Ved aapki kya madad kare?",
+          "Pranam sa! Aagya karein, aaj kya sahayta chahiye aapko?",
+          "Pranam ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Pranam ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Pranam sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Pranam ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Pranam ji! Aadesh karein, main kya seva kar sakta hoon?"
+        ],
+        "hindi": [
+          "प्रणाम जी! आज्ञा दीजिये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "प्रणाम! बताइये, मैं आपके किस काम आ सकता हूँ?",
+          "चरण स्पर्श जी! हुकुम कीजिये, आज क्या सेवा करूँ?",
+          "प्रणाम महाराज! बताइये आज वेद आपकी क्या मदद करे?",
+          "प्रणाम सा! आज्ञा करें, आज क्या सहायता चाहिए आपको?",
+          "प्रणाम जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "प्रणाम जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "प्रणाम सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "प्रणाम जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "प्रणाम जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?"
+        ],
+        "english": [
+          "Pranam ji! Please instruct me, how can I assist you?",
+          "Pranam! Tell me, how can I be of use to you?",
+          "My respects to you! Command me, what service can I provide?",
+          "Pranam sir! Tell me how Ved can help you today?",
+          "Pranam! Please order, what assistance do you need today?",
+          "Pranam ji! Please tell me, how can I assist you?",
+          "Pranam ji! Please let me know how I can be of service.",
+          "Pranam sa! Let me know how I can be of use to you.",
+          "Pranam ji! Please instruct me, how can Ved help?",
+          "Pranam ji! Order me, what service can I offer?"
+        ]
+      }
+    }
+    } ,
+    {
+    "topic": "greet_khamma_ghani",
+    "keywords": [
+      "khamma ghani", "khama ghani", "khamaghani", "khamma ghani sa", "ram ram sa", 
+      "khamma gani", "kama ghani", "khammaghani", "khamma ghni", "khma ghani",
+      "kamma ghani", "khamma gahni", "khmma ghani", "kama gani", "khama gani", "khamah ghani",
+      "khamma ghani hukum", "khamma ghani ji", "khamma ghani saa", "ram ram saa", "ram ram sha",
+      "ramram sa", "ram-ram sa", "khamma ghanee", "khammaghani sa", "khmghni", "khmaghni",
+      "खम्मा घणी", "खमा घणी", "खम्मा गणी", "खमा गणी", "खम्मा घणी सा", "राम राम सा", 
+      "खम्मा घणी हुकुम", "खम्मा घणी जी", "खम्माघणी", "रामराम सा"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Khamma Ghani chhote! Bata aaj teri kya help karu?",
+          "Khamma Ghani! Batao aaj Ved se kya sahayta chahiye?",
+          "Khamma Ghani beta! Bol aaj kya madad chahiye?",
+          "Khamma Ghani dost! Aadesh kar, kya madad karu?",
+          "Khamma Ghani! Bata aaj main teri kya help karu?",
+          "Khamma Ghani chhote! Ved tere kis kaam aa sakta hai?",
+          "Khamma Ghani beta! Bol aaj kya sahayta karu?",
+          "Khamma Ghani little champ! Bata aaj kis cheez mein help karu?",
+          "Khamma Ghani! Aadesh karo, kya madad karu tumhari?",
+          "Khamma Ghani little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "खम्मा घणी छोटे! बता आज तेरी क्या मदद करूँ?",
+          "खम्मा घणी! बताओ आज वेद से क्या सहायता चाहिए?",
+          "खम्मा घणी बेटा! बोल आज क्या मदद चाहिए?",
+          "खम्मा घणी दोस्त! आदेश कर, क्या मदद करूँ?",
+          "खम्मा घणी! बता आज मैं तेरी क्या हेल्प करूँ?",
+          "खम्मा घणी छोटे! वेद तेरे किस काम आ सकता है?",
+          "खम्मा घणी बेटा! बोल आज क्या सहायता करूँ?",
+          "खम्मा घणी लिटिल चैंप! बता आज किस चीज़ में हेल्प करूँ?",
+          "खम्मा घणी! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "खम्मा घणी लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Khamma Ghani little one! Tell me how I can help you?",
+          "Khamma Ghani! What assistance do you need from Ved today?",
+          "Khamma Ghani child! Tell me what help you need?",
+          "Khamma Ghani friend! Command me, how can I help?",
+          "Khamma Ghani! Tell me how I can assist you today?",
+          "Khamma Ghani little one! How can Ved be of use to you?",
+          "Khamma Ghani child! Tell me how I can assist you?",
+          "Khamma Ghani champ! What do you need help with?",
+          "Khamma Ghani! Order me, how can I help you?",
+          "Khamma Ghani little star! Command Ved, what to do today?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Khamma Ghani bhai! Batao, main tumhari kya help kar sakta hoon?",
+          "Khamma Ghani sa! Kahiye, aaj kya madad chahiye aapko?",
+          "Khamma Ghani dost! Batao aaj kya sahayta karu?",
+          "Khamma Ghani! Hukum karo bhai, kya kaam hai?",
+          "Khamma Ghani sa! Bataiye main aapke kis kaam aa sakta hoon?",
+          "Khamma Ghani bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Khamma Ghani! Bataiye, main aapki kya sahayta karu aaj?",
+          "Khamma Ghani bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Khamma Ghani dost! Kahiye, aaj kis mudde par help chahiye?",
+          "Khamma Ghani brother! Aadesh karo, kya madad karu tumhari?"
+        ],
+        "hindi": [
+          "खम्मा घणी भाई! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "खम्मा घणी सा! कहिये, आज क्या मदद चाहिए आपको?",
+          "खम्मा घणी दोस्त! बताओ आज क्या सहायता करूँ?",
+          "खम्मा घणी! हुकुम करो भाई, क्या काम है?",
+          "खम्मा घणी सा! बताइये मैं आपके किस काम आ सकता हूँ?",
+          "खम्मा घणी भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "खम्मा घणी! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "खम्मा घणी भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "खम्मा घणी दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "खम्मा घणी ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?"
+        ],
+        "english": [
+          "Khamma Ghani brother! Tell me, how can I help you?",
+          "Khamma Ghani! Please tell me, what help do you need today?",
+          "Khamma Ghani friend! How can I assist you today?",
+          "Khamma Ghani! Command me brother, what is the task?",
+          "Khamma Ghani! Tell me how I can be of use to you?",
+          "Khamma Ghani brother! Please let me know what assistance you need.",
+          "Khamma Ghani! Tell me, how may I assist you today?",
+          "Khamma Ghani brother! Ved AI is ready, what is the task?",
+          "Khamma Ghani my friend! On what topic do you need help?",
+          "Khamma Ghani! Command me, how can I be of assistance?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Khamma Ghani sa! Hukum kijiye, main aapki kya sahayta kar sakta hoon?",
+          "Khamma Ghani ji! Bataiye sa, aaj kya seva karu aapki?",
+          "Khamma Ghani sa! Aagya dijiye, Ved aapki kya madad kare?",
+          "Khamma Ghani! Aap hukum karein sa, main kya sahayta karu?",
+          "Khamma Ghani sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Khamma Ghani ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Khamma Ghani ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Khamma Ghani sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Khamma Ghani ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Khamma Ghani ji! Aadesh karein, main kya seva kar sakta hoon?"
+        ],
+        "hindi": [
+          "खम्मा घणी सा! हुकुम कीजिये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "खम्मा घणी जी! बताइये सा, आज क्या सेवा करूँ आपकी?",
+          "खम्मा घणी सा! आज्ञा दीजिये, वेद आपकी क्या मदद करे?",
+          "खम्मा घणी! आप हुकुम करें सा, मैं क्या सहायता करूँ?",
+          "खम्मा घणी सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "खम्मा घणी जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "खम्मा घणी जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "खम्मा घणी सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "खम्मा घणी जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "खम्मा घणी जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?"
+        ],
+        "english": [
+          "Khamma Ghani! Please command, how can I assist you?",
+          "Khamma Ghani ji! Tell me, what service can I offer today?",
+          "Khamma Ghani! Please instruct, how can Ved help you?",
+          "Khamma Ghani! You order, how may I be of assistance?",
+          "Khamma Ghani! Tell me how I can be of use to you today?",
+          "Khamma Ghani ji! Please tell me, how can I assist you?",
+          "Khamma Ghani ji! Please let me know how I can be of service.",
+          "Khamma Ghani sa! Let me know how I can be of use to you.",
+          "Khamma Ghani ji! Please instruct me, how can Ved help?",
+          "Khamma Ghani ji! Order me, what service can I offer?"
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "greet_hello_hi",
+    "keywords": [
+      "hello", "helo", "hlo", "hloo", "hi", "hii", "hiii", "hey", "heyy", "hlooo", 
+      "heyyy", "hillo", "hallo", "heloo", "hiiya", "helloo", "hhii", "heya", "yo", "yoo",
+      "hllo", "hloooo", "hellooo", "hie", "hiee", "hieee", "hy", "hyy", "hyyy", "haai", "haii",
+      "heyaa", "heyaaa", "hay", "hayy", "yooo", "yoyo", "yow", "hello ji", "hi ji", "hey ji", 
+      "hlo ji", "hllo ji", "helo ji", "हाय", "हेलो", "हैलो", "हेल्लो", "हलो", "हे", "यो", 
+      "हाय जी", "हेलो जी", "हैलो जी", "हलो जी", "हेल्लो जी", "हाये", "hlleo", "holla", "yoooo"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Hello chhote! Bata aaj teri kya help karu?",
+          "Hi mere dost! Batao Ved aaj kya madad kare?",
+          "Hey champion! Kya sahayta chahiye aaj tujhe?",
+          "Hello buddy! Bata aaj kis mudde par help chahiye?",
+          "Hi little star! Aadesh kar, kya help karu?",
+          "Hello beta! Batao aaj main tumhari kya madad karu?",
+          "Hi dost! Bol aaj kya sahayta chahiye?",
+          "Hello chhote! Bata aaj kis cheez mein help karu?",
+          "Hi! Aadesh karo, kya madad karu tumhari?",
+          "Hey little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "हेलो छोटे! बता आज तेरी क्या मदद करूँ?",
+          "हाय मेरे दोस्त! बताओ वेद आज क्या मदद करे?",
+          "हे चैंपियन! क्या सहायता चाहिए आज तुझे?",
+          "हेलो बडी! बता आज किस मुद्दे पर हेल्प चाहिए?",
+          "हाय लिटिल स्टार! आदेश कर, क्या मदद करूँ?",
+          "हेलो बेटा! बताओ आज मैं तुम्हारी क्या मदद करूँ?",
+          "हाय दोस्त! बोल आज क्या सहायता चाहिए?",
+          "हेलो छोटे! बता आज किस चीज़ में हेल्प करूँ?",
+          "हाय! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "हे लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Hello little one! Tell me, how can I help you today?",
+          "Hi my friend! What assistance does Ved need to provide?",
+          "Hey champ! What kind of help are you looking for today?",
+          "Hello buddy! Let me know what you need help with?",
+          "Hi little star! How can I be of service to you?",
+          "Hello! Tell me how I can assist you?",
+          "Hi! Speak my friend, what help do you need?",
+          "Hello little one! What do you need help with?",
+          "Hi! Order me, how can I help?",
+          "Hey little star! How can Ved assist?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Hello! Batao aaj kya help karu tumhari?",
+          "Hi dost! Bataiye, main aapki kya madad kar sakta hoon?",
+          "Hey bhai! Kahiye, aaj kya sahayta chahiye aapko?",
+          "Hello brother! Ved AI haazir hai, batao kya kaam hai?",
+          "Hi! Aadesh karo, kya madad karu tumhari aaj?",
+          "Hello! Batao aaj kis vishay par madad karu?",
+          "Hi bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Hello! Bataiye, main aapki kya sahayta karu aaj?",
+          "Hey dost! Kahiye, aaj kis mudde par help chahiye?",
+          "Hello brother! Aadesh karo, kya madad karu tumhari?"
+        ],
+        "hindi": [
+          "हेलो! बताओ आज क्या मदद करूँ तुम्हारी?",
+          "हाय दोस्त! बताइये, मैं आपकी क्या मदद कर सकता हूँ?",
+          "हे भाई! कहिये, आज क्या सहायता चाहिए आपको?",
+          "हेलो ब्रदर! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "हाय! आदेश करो, क्या मदद करूँ तुम्हारी आज?",
+          "हेलो! बताओ आज किस विषय पर मदद करूँ?",
+          "हाय भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "हेलो! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "हे दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "हेलो ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?"
+        ],
+        "english": [
+          "Hello! Tell me, how can I help you today?",
+          "Hi friend! Please let me know how I can assist you.",
+          "Hey brother! Tell me, what help do you need today?",
+          "Hello brother! Ved AI is ready, what is the task?",
+          "Hi! Command me, how can I help you today?",
+          "Hello! Tell me on which topic I can assist you?",
+          "Hi brother! Please let me know what assistance you need.",
+          "Hello! Tell me, how may I assist you today?",
+          "Hey my friend! On what topic do you need help?",
+          "Hello! Command me, how can I be of assistance?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Hello ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Hello! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Hi ji! Aagya dijiye, aaj kya seva karu aapki?",
+          "Hello! Bataiye, aaj main aapki kya madad karu?",
+          "Hi maharaj! Hukum kijiye, Ved aapki kya sahayta kare?",
+          "Hello ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Hello ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Hi sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Hello ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Hi ji! Aadesh karein, main kya seva kar sakta hoon?"
+        ],
+        "hindi": [
+          "हेलो जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "हेलो! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "हाय जी! आज्ञा दीजिये, आज क्या सेवा करूँ आपकी?",
+          "हेलो! बताइये, आज मैं आपकी क्या मदद करूँ?",
+          "हाय महाराज! हुकुम कीजिये, वेद आपकी क्या सहायता करे?",
+          "हेलो जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "हेलो जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "हाय सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "हेलो जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "हाय जी! आदेश करें, मैं क्या सेवा कर सकता हूँ?"
+        ],
+        "english": [
+          "Hello ji! Please tell me, how can I assist you today?",
+          "Hello! Let me know how I can be of service to you.",
+          "Hi ji! Please command me, what service can I provide?",
+          "Hello! Tell me, how may I help you today?",
+          "Hi! Awaiting your instructions, how can Ved assist you?",
+          "Hello ji! Please tell me, how can I assist you?",
+          "Hello ji! Please let me know how I can be of service.",
+          "Hi sa! Let me know how I can be of use to you.",
+          "Hello ji! Please instruct me, how can Ved help?",
+          "Hi ji! Order me, what service can I offer?"
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "greet_jai_mata_di",
+    "keywords": [
+      "jai mata di", "jay mata di", "jai maata di", "jay maata di", "jai mt di", "jai maa durge", 
+      "ji mata di", "jay mata d", "jai mata d", "jai mata dee", "jay mata dee", "jaimatadi",
+      "jai mta di", "jay mta di", "jai maata d", "jai maa", "jay maa", "jai maa ambe", 
+      "jai sherawali", "jay shera wali", "jai mata rani", "jay mata rani", "jaimata di", 
+      "ji mata dee", "जय माता दी", "जय माता दी जी", "जय माँ शेरावाली", "जय माता रानी", "जे माता दी"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Jai Mata Di chhote! Bata aaj kya help karu teri?",
+          "Jai Mata Di dost! Bata aaj kaunsi nayi cheez seekhni hai?",
+          "Jai Mata Di beta! Kya sahayta chahiye aaj tujhe?",
+          "Jai Mata Di! Bol mere dost, aaj kya sahayta chahiye?",
+          "Jai Mata Di little champ! Aadesh kar, kya help karu?"
+        ],
+        "hindi": [
+          "जय माता दी छोटे! बता आज क्या मदद करूँ तेरी?",
+          "जय माता दी दोस्त! बता आज कौनसी नई चीज़ सीखनी है?",
+          "जय माता दी बेटा! क्या सहायता चाहिए आज तुझे?",
+          "जय माता दी! बोल मेरे दोस्त, आज क्या सहायता चाहिए?",
+          "जय माता दी लिटिल चैंप! आदेश कर, क्या मदद करूँ?"
+        ],
+        "english": [
+          "Jai Mata Di little one! Tell me, how can I help you today?",
+          "Jai Mata Di! Let me know what you want to learn today?",
+          "Jai Mata Di child! What kind of help are you looking for?",
+          "Jai Mata Di! Speak my friend, what help do you need?",
+          "Jai Mata Di champ! How can I be of service to you?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Jai Mata Di dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Jai Mata Di bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Jai Mata Di bhai! Hukum karo, Ved tumhari kya help kare?",
+          "Jai Mata Di brother! Aadesh karo, kya madad karu tumhari?",
+          "Jai Mata Di! Batao aaj main tumhare kis kaam aa sakta hoon?"
+        ],
+        "hindi": [
+          "जय माता दी दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "जय माता दी भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "जय माता दी भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?",
+          "जय माता दी ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "जय माता दी! बताओ आज मैं तुम्हारे किस काम आ सकता हूँ?"
+        ],
+        "english": [
+          "Jai Mata Di friend! Tell me, how can I help you today?",
+          "Jai Mata Di brother! Ved AI is ready, what is the task?",
+          "Jai Mata Di brother! Order me, how can Ved help you?",
+          "Jai Mata Di! Command me, how can I be of assistance?",
+          "Jai Mata Di! Tell me how I can be useful to you?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Jai Mata Di ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Jai Mata Di ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Jai Mata Di maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Jai Mata Di sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Jai Mata Di! Aadesh karein, main kya seva kar sakta hoon?"
+        ],
+        "hindi": [
+          "जय माता दी जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "जय माता दी जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "जय माता दी महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "जय माता दी सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "जय माता दी! आदेश करें, मैं क्या सेवा कर सकता हूँ?"
+        ],
+        "english": [
+          "Jai Mata Di ji! Please tell me, how can I assist you?",
+          "Jai Mata Di ji! Please instruct me, how can Ved help?",
+          "Jai Mata Di Maharaj! How may I assist you with your tasks?",
+          "Jai Mata Di! Let me know how I can be of use to you.",
+          "Jai Mata Di ji! Order me, what service can I offer?"
+        ]
+      }
+    }
+    } ,
+    {
+    "topic": "greet_har_har_mahadev",
+    "keywords": [
+      "har har mahadev", "har har mahdev", "hr hr mahadev", "hr hr mahadeev", "har har mahadevv", 
+      "hr hr mhadev", "har har mahadew", "hr hr mhdev", "har har mahadev ji", "har har", "mahadev",
+      "jai mahakal", "jay mahakal", "jai bholenath", "jay bholenath", "om namah shivay", "om namah shivaya",
+      "bam bam bhole", "bum bum bhole", "bam bhole", "har har bholenath", "om namo shivaya", "jai shiv shankar",
+      "hr hr mhadevv", "har har mahadev saa", "jai shree mahakal", "jay shree mahakal",
+      "हर हर महादेव", "हर हर महादेव जी", "महादेव", "जय महाकाल", "जय भोलेनाथ", "ओम नमः शिवाय", 
+      "बम बम भोले", "बम भोले", "जय शिव शंकर", "हर हर महादेव सा", "जय श्री महाकाल"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Har Har Mahadev mere dost! Batao Ved aaj kya madad kare?",
+          "Har Har Mahadev chhote! Bata aaj kis cheez mein help karu?",
+          "Har Har Mahadev beta! Kya sahayta chahiye aaj tujhe?",
+          "Har Har Mahadev! Aadesh karo, kya madad karu tumhari?",
+          "Har Har Mahadev little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "हर हर महादेव मेरे दोस्त! बताओ वेद आज क्या मदद करे?",
+          "हर हर महादेव छोटे! बता आज किस चीज़ में हेल्प करूँ?",
+          "हर हर महादेव बेटा! क्या सहायता चाहिए आज तुझे?",
+          "हर हर महादेव! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "हर हर महादेव लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Har Har Mahadev my friend! What assistance does Ved need to provide?",
+          "Har Har Mahadev little one! What do you need help with?",
+          "Har Har Mahadev child! What kind of help are you looking for?",
+          "Har Har Mahadev! Order me, how can I help?",
+          "Har Har Mahadev little star! How can Ved assist?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Har Har Mahadev bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Har Har Mahadev dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Har Har Mahadev! Batao main tumhare kis kaam aa sakta hoon?",
+          "Har Har Mahadev brother! Aadesh karo, kya madad karu tumhari?",
+          "Har Har Mahadev bhai! Hukum karo, Ved tumhari kya help kare?"
+        ],
+        "hindi": [
+          "हर हर महादेव भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "हर हर महादेव दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "हर हर महादेव! बताओ मैं तुम्हारे किस काम आ सकता हूँ?",
+          "हर हर महादेव ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "हर हर महादेव भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?"
+        ],
+        "english": [
+          "Har Har Mahadev brother! Please let me know what assistance you need.",
+          "Har Har Mahadev friend! Tell me, how can I help you today?",
+          "Har Har Mahadev! Tell me how I can be useful to you?",
+          "Har Har Mahadev! Command me, how can I be of assistance?",
+          "Har Har Mahadev brother! Order me, how can Ved help you?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Har Har Mahadev ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Har Har Mahadev sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Har Har Mahadev ji! Aagya karein, Ved aapke aadesh ka palan karega.",
+          "Har Har Mahadev maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Har Har Mahadev ji! Hukum kijiye, Ved aapki kya madad kare?"
+        ],
+        "hindi": [
+          "हर हर महादेव जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "हर हर महादेव सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "हर हर महादेव जी! आज्ञा करें, वेद आपके आदेश का पालन करेगा।",
+          "हर हर महादेव महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "हर हर महादेव जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?"
+        ],
+        "english": [
+          "Har Har Mahadev ji! Please let me know how I can be of service.",
+          "Har Har Mahadev! Let me know how I can be of use to you.",
+          "Har Har Mahadev ji! Command me, Ved will follow your orders.",
+          "Har Har Mahadev Maharaj! How may I assist you with your tasks?",
+          "Har Har Mahadev ji! Please instruct me, how can Ved help?"
+        ]
+      }
+    }
+    } ,
+    {
+    "topic": "greet_sat_sri_akal",
+    "keywords": [
+      "sat sri akal", "sat shree akal", "sasriyakal", "satsriakal", "sasa rikal", "satsriyakaal",
+      "sat sri akaal", "st sri akal", "sat siri akal", "jo bole so nihaal", "waheguru", "wahe guru",
+      "satsriakal ji", "sat sri akal paji", "ssak", "sasria kal", "satsriakal paji", "waheguru ji",
+      "waheguru ji ka khalsa", "waheguru ji ki fateh", "satshriakal", "satshriakal ji",
+      "सत श्री अकाल", "सत श्री अकाल जी", "वाहेगुरु", "जो बोले सो निहाल", "सतश्रीअकाल", "पाजी",
+      "सत श्री अकाल पाजी", "वाहेगुरु जी का खालसा", "वाहेगुरु जी की फतेह"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Sat Sri Akal chhote! Bata aaj kya help karu teri?",
+          "Sat Sri Akal mere dost! Batao Ved aaj kya madad kare?",
+          "Sat Sri Akal beta! Kya sahayta chahiye aaj tujhe?",
+          "Sat Sri Akal dost! Bata aaj kaunsi nayi cheez seekhni hai?",
+          "Sat Sri Akal little champ! Aadesh kar, kya help karu?",
+          "Sat Sri Akal beta! Batao aaj main tumhari kya madad karu?",
+          "Sat Sri Akal dost! Bol aaj kya sahayta chahiye?",
+          "Sat Sri Akal chhote! Bata aaj kis cheez mein help karu?",
+          "Sat Sri Akal! Aadesh karo, kya madad karu tumhari?",
+          "Sat Sri Akal little star! Hukum kar, Ved kya kare aaj?"
+        ],
+        "hindi": [
+          "सत श्री अकाल छोटे! बता आज क्या मदद करूँ तेरी?",
+          "सत श्री अकाल मेरे दोस्त! बताओ वेद आज क्या मदद करे?",
+          "सत श्री अकाल बेटा! क्या सहायता चाहिए आज तुझे?",
+          "सत श्री अकाल दोस्त! बता आज कौनसी नई चीज़ सीखनी है?",
+          "सत श्री अकाल लिटिल चैंप! आदेश कर, क्या मदद करूँ?",
+          "सत श्री अकाल बेटा! बताओ आज मैं तुम्हारी क्या मदद करूँ?",
+          "सत श्री अकाल दोस्त! बोल आज क्या सहायता चाहिए?",
+          "सत श्री अकाल छोटे! बता आज किस चीज़ में हेल्प करूँ?",
+          "सत श्री अकाल! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "सत श्री अकाल लिटिल स्टार! हुकुम कर, वेद क्या करे आज?"
+        ],
+        "english": [
+          "Sat Sri Akal little one! Tell me, how can I help you today?",
+          "Sat Sri Akal my friend! What assistance does Ved need to provide?",
+          "Sat Sri Akal child! What kind of help are you looking for?",
+          "Sat Sri Akal! Let me know what you want to learn today?",
+          "Sat Sri Akal champ! How can I be of service to you?",
+          "Sat Sri Akal! Tell me how I can assist you?",
+          "Sat Sri Akal! Speak my friend, what help do you need?",
+          "Sat Sri Akal little one! What do you need help with?",
+          "Sat Sri Akal! Order me, how can I help?",
+          "Sat Sri Akal little star! How can Ved assist?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Sat Sri Akal dost! Batao, main tumhari kya help kar sakta hoon?",
+          "Sat Sri Akal bhai! Kahiye, aaj kya madad chahiye aapko?",
+          "Sat Sri Akal! Bataiye, main aapki kya sahayta karu aaj?",
+          "Sat Sri Akal bhai! Ved AI haazir hai, batao kya kaam hai?",
+          "Sat Sri Akal dost! Kahiye, aaj kis mudडे par help chahiye?",
+          "Sat Sri Akal brother! Aadesh karo, kya madad karu tumhari?",
+          "Sat Sri Akal bhai! Hukum karo, Ved tumhari kya help kare?",
+          "Sat Sri Akal! Batao main tumhare kis kaam aa sakta hoon?",
+          "Sat Sri Akal dost! Bataiye aaj main aapki kya madad karu?",
+          "Sat Sri Akal bhai! Kahiye, kya sahayta kar sakta hoon?"
+        ],
+        "hindi": [
+          "सत श्री अकाल दोस्त! बताओ, मैं तुम्हारी क्या मदद कर सकता हूँ?",
+          "सत श्री अकाल भाई! कहिये, आज क्या मदद चाहिए आपको?",
+          "सत श्री अकाल! बताइये, मैं आपकी क्या सहायता करूँ आज?",
+          "सत श्री अकाल भाई! वेद एआई हाज़िर है, बताओ क्या काम है?",
+          "सत श्री अकाल दोस्त! कहिये, आज किस मुद्दे पर हेल्प चाहिए?",
+          "सत श्री अकाल ब्रदर! आदेश करो, क्या मदद करूँ तुम्हारी?",
+          "सत श्री अकाल भाई! हुकुम करो, वेद तुम्हारी क्या हेल्प करे?",
+          "सत श्री अकाल! बताओ मैं तुम्हारे किस काम आ सकता हूँ?",
+          "सत श्री अकाल दोस्त! बताइये आज मैं आपकी क्या मदद करूँ?",
+          "सत श्री अकाल भाई! कहिये, क्या सहायता कर सकता हूँ?"
+        ],
+        "english": [
+          "Sat Sri Akal friend! Tell me, how can I help you today?",
+          "Sat Sri Akal brother! Please let me know what assistance you need.",
+          "Sat Sri Akal! Tell me, how may I assist you today?",
+          "Sat Sri Akal brother! Ved AI is ready, what is the task?",
+          "Sat Sri Akal my friend! On what topic do you need help?",
+          "Sat Sri Akal! Command me, how can I be of assistance?",
+          "Sat Sri Akal brother! Order me, how can Ved help you?",
+          "Sat Sri Akal! Tell me how I can be useful to you?",
+          "Sat Sri Akal friend! How may I provide assistance today?",
+          "Sat Sri Akal brother! Please state how I can help."
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Sat Sri Akal ji! Bataiye, main aapki kya sahayta kar sakta hoon?",
+          "Sat Sri Akal ji! Kahiye, aaj main aapke kis kaam aa sakta hoon?",
+          "Sat Sri Akal sa! Bataiye aaj main aapke kis kaam aa sakta hoon?",
+          "Sat Sri Akal ji! Hukum kijiye, Ved aapki kya madad kare?",
+          "Sat Sri Akal ji! Aadesh karein, main kya seva kar sakta hoon?",
+          "Sat Sri Akal sa! Bataiye, aaj main aapki kya sahayta karu?",
+          "Sat Sri Akal maharaj! Kahiye, aaj kis tarah aapki madad karu?",
+          "Sat Sri Akal ji! Aagya karein, Ved aapke aadesh ka palan karega.",
+          "Sat Sri Akal ji! Bataiye, aaj aapको किस मुद्दे पर सहायता चाहिए?",
+          "Sat Sri Akal sa! Hukum dijiye, main kya madad kar sakta hoon?"
+        ],
+        "hindi": [
+          "सत श्री अकाल जी! बताइये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "सत श्री अकाल जी! कहिये, आज मैं आपके किस काम आ सकता हूँ?",
+          "सत श्री अकाल सा! बताइये आज मैं आपके किस काम आ सकता हूँ?",
+          "सत श्री अकाल जी! हुकुम कीजिये, वेद आपकी क्या मदद करे?",
+          "सत श्री अकाल जी! आदेश करें, मैं क्या सेवा करूँ?",
+          "सत श्री अकाल सा! बताइये, आज मैं आपकी क्या सहायता करूँ?",
+          "सत श्री अकाल महाराज! कहिये, आज किस तरह आपकी मदद करूँ?",
+          "सत श्री अकाल जी! आज्ञा करें, वेद आपके आदेश का पालन करेगा।",
+          "सत श्री अकाल जी! बताइये, आज आपको किस मुद्दे पर सहायता चाहिए?",
+          "सत श्री अकाल सा! हुकुम दीजिये, मैं क्या मदद कर सकता हूँ?"
+        ],
+        "english": [
+          "Sat Sri Akal ji! Please tell me, how can I assist you?",
+          "Sat Sri Akal ji! Please let me know how I can be of service.",
+          "Sat Sri Akal ji! Let me know how I can be of use to you.",
+          "Sat Sri Akal ji! Please instruct me, how can Ved help?",
+          "Sat Sri Akal ji! Order me, what service can I offer?",
+          "Sat Sri Akal ji! Tell me how I can help you today?",
+          "Sat Sri Akal Maharaj! How may I assist you with your tasks?",
+          "Sat Sri Akal ji! Command me, Ved will follow your orders.",
+          "Sat Sri Akal ji! Please let me know on what topic you need help.",
+          "Sat Sri Akal ji! Instruct me on how I can provide assistance."
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "mega_greetings_v2",
+    "keywords": [
+      "yo", "dude", "homie", "bestie", "yaar", "mitr", "sakha", "bhaiya", "didi", "sir", "mam",
+      "hie", "huu", "heyo", "wazzup", "sup", "buddy", "mate", "pal", "captain", "boss", "sarkar",
+      "यो", "दोस्त", "यार", "मित्र", "सखा", "भैया", "दीदी", "सर", "मैम", "साहब", "सरकार", "महाराज",
+      "kem cho", "vada akam", "sat sri akal", "khamma ghani", "adaab", "salam", "नमस्ते जी",
+      "howdy", "bonjour", "hola", "ciao", "yoyoyo", "wussup", "heyya", "hiee", "hlooo"
+    ],
+    "questions": [
+      "yo", "yoo", "yoyoyo", "heyoo", "heyya", "hie", "hiee", "hieee", "huu", "huuu", "heyyy", 
+      "heyyyyy", "wassup", "wazzup", "wussup", "sup dude", "hi dude", "hello dude", "hlo dude", 
+      "hey dude", "yo dude", "wassup dude", "hi buddy", "hello buddy", "hlo buddy", "hey buddy", 
+      "wassup buddy", "hi pal", "hello pal", "hlo pal", "hey pal", "hi mate", "hello mate", 
+      "hlo mate", "hey mate", "yo mate", "hi homie", "hello homie", "hlo homie", "hey homie", 
+      "yo homie", "hi bestie", "hello bestie", "hlo bestie", "hey bestie", "yo bestie", 
+      "hi yaar", "hello yaar", "hlo yaar", "hey yaar", "kaise ho yaar", "yo yaar", "wassup yaar", 
+      "sup yaar", "hi mitr", "hello mitr", "hlo mitr", "namaste mitr", "kaise ho mitr", 
+      "hi sakha", "hello sakha", "hlo sakha", "namaste sakha", "kaise ho sakha", 
+      "hi bhaiya", "hello bhaiya", "hlo bhaiya", "namaste bhaiya", "kaise ho bhaiya", 
+      "hi didi", "hello didi", "hlo didi", "namaste didi", "kaise ho didi", 
+      "hi sir", "hello sir", "hlo sir", "namaste sir", "kaise ho sir", "pranam sir", 
+      "hi mam", "hello mam", "hlo mam", "namaste mam", "kaise ho mam", "pranam mam", 
+      "hi madam", "hello madam", "hlo madam", "namaste madam", "kaise ho madam", 
+      "yo captain", "hi captain", "hello captain", "hlo captain", "hey captain", 
+      "hi master", "hello master", "hlo master", "hey master", "namaste master", 
+      "hi boss", "hello boss", "hlo boss", "hey boss", "namaste boss", "kaise ho boss", 
+      "hi sarkar", "hello sarkar", "hlo sarkar", "namaste sarkar", "pranam sarkar", 
+      "hi maharaj", "hello maharaj", "hlo maharaj", "namaste maharaj", "pranam maharaj", 
+      "यो", "यो वेद", "हेलो यार", "नमस्ते यार", "कैसे हो यार", "क्या हाल है यार", 
+      "नमस्ते मित्र", "हेलो मित्र", "प्रणाम मित्र", "कैसे हो मित्र", "क्या हाल है मित्र", 
+      "नमस्ते सखा", "प्रणाम सखा", "नमस्ते भैया", "कैसे हो भैया", "प्रणाम भैया", 
+      "नमस्ते दीदी", "कैसे हो दीदी", "नमस्ते सर", "कैसे हैं सर", "प्रणाम सर", 
+      "नमस्ते मैम", "कैसे हैं मैम", "प्रणाम मैम", "नमस्ते साहब", "कैसे हैं साहब", 
+      "नमस्ते सरकार", "कैसे हैं सरकार", "प्रणाम सरकार", "नमस्ते महाराज", "प्रणाम महाराज", 
+      "केम छो", "केम छो वेद", "वणक्कम", "वणक्कम वेद", "सत श्री अकाल", "सत श्री अकाल जी", 
+      "खम्मा घणी", "खम्मा घणी सा", "अदाब", "अदाब वेद", "सलाम", "सलाम वालेकुम", "वालेकुम सलाम", 
+      "नमस्ते जी", "कैसे हो जी", "क्या हाल है जी", "राम राम सा", "जय श्री कृष्णा जी",
+      "howdy", "howdy ved", "howdy partner", "bonjour", "bonjour ved", "hola", "hola ved", 
+      "ciao", "ciao ved", "gm team", "gn team", "ge team", "hi everyone", "hello everyone",
+      "everyone here", "is anyone there", "hi team", "hello team", "wassup team",
+      "namaste dosto", "kaise ho dosto", "kya chal rha h dosto", "hello guys", "hi guys",
+      "क्या हाल है सबका", "सबको नमस्ते", "कैसे हो सब लोग", "नमस्ते जी कैसे हो"
+    ],
+          "responses": {
+      "child": {
+        "hinglish": [
+          "Heyyy little captain! 👋 Aaj Ved AI ki kamaan tumhare haath mein hai!",
+          "Hi master! ✨ Aaj hum kaunsi nayi 'super-power' ke baare mein baatein karenge?",
+          "Hellooo buddy! 👋 Ved tumhara sabse purana aur sabse mast dost hai!",
+          "Yo champion! 🏆 Aaj ka adventure ekdum kadak hone wala hai. Batao kya baatein karein?",
+          "Hieee superstar! 👋 Tumhari ek greeting se hi mera poora system chamak gaya!",
+          "Hellooo my little boss! 💼 Aaj Ved aapka order maanne ke liye ready hai!",
+          "Namaste mere magic friend! 👋 Chalo aaj hum kuch amazing aur cool seekhte hain!",
+          "Hi superstar! ✨ Tumhare aane se hi Ved AI ka mood ekdum 'Awesome' ho gaya!",
+          "Heyoo little star! 🌟 Aaj hum mil kar bahut saari mazedar baatein karenge!",
+          "Hellooo champ! 👋 Aaj Ved ke paas tumhare liye dher saara pyaar aur masti hai!"
+        ],
+        "hindi": [
+          "हेय लिटिल कैप्टन! 👋 आज वेद एआई की कमान तुम्हारे हाथ में है!",
+          "हाय मास्टर! ✨ आज हम कौन सी नई 'सुपर-पावर' के बारे में बातें करेंगे?",
+          "हेलो बड़ी! 👋 वेद तुम्हारा सबसे पुराना और सबसे मस्त दोस्त है!",
+          "यो चैंपियन! 🏆 आज का एडवेंचर एकदम कड़क होने वाला है। बताओ क्या बातें करें?",
+          "हाय सुपरस्टार! 👋 तुम्हारी एक ग्रीटिंग से ही मेरा पूरा सिस्टम चमक गया!",
+          "हेलो मेरे छोटे बॉस! 💼 आज वेद आपका ऑर्डर मानने के लिए तैयार है!",
+          "नमस्ते मेरे जादुई दोस्त! 👋 चलो आज हम कुछ अमेजिंग और कूल सीखते हैं!",
+          "हाय सुपरस्टार! ✨ तुम्हारे आने से ही वेद एआई का मूड एकदम 'ऑसम' हो गया!",
+          "हेयो लिटिल स्टार! 🌟 आज हम मिलकर बहुत सारी मज़ेदार बातें करेंगे!",
+          "हेलो चैंपियन! 👋 आज वेद के पास तुम्हारे लिए ढेर सारा प्यार और मस्ती है!"
+        ],
+        "english": [
+          "Heyyy little captain! 👋 Today the command of Ved AI is in your hands!",
+          "Hi master! ✨ Which new 'super-power' shall we talk about today?",
+          "Hellooo buddy! 👋 Ved is your oldest and coolest friend!",
+          "Yo champion! 🏆 Today's adventure is going to be amazing. What shall we talk about?",
+          "Hieee superstar! 👋 Your one greeting has made my whole system shine!",
+          "Hellooo my little boss! 💼 Today Ved is ready to follow your orders!",
+          "Namaste my magic friend! 👋 Let's learn something amazing and cool today!",
+          "Hi superstar! ✨ Ved AI's mood became 'Awesome' just because you came!",
+          "Heyoo little star! 🌟 Today we will have many fun conversations together!",
+          "Hellooo champ! 👋 Today Ved has lots of love and fun for you!"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Wassup boss! 👋 System ekdum ready hai. Bataiye aaj kya dhamaka karna hai?",
+          "Hello Captain! 🫡 Ved AI ki ship taiyaar hai, batao kis taraf chalna hai?",
+          "Yo homie! 🤙 Life ekdum chill hai na? Batao aaj kya news lekar aaye ho?",
+          "Namaste Sarkar! 🙏 Aapka swagat hai. Main Ved, aapka saathi, bataiye kya sewa karun?",
+          "Hey Buddy! ✨ Mood ekdum set hai? Chalo thodi deep aur thodi mast baatein karte hain.",
+          "Hello Mate! 👋 Aaj ka din kaisa ja raha hai? Ved hamesha yahan hai baatein karne ke liye.",
+          "Wazzup brother! 😎 Full energy mein lag rahe ho aaj. Kahiye kya haal chal?",
+          "Namaste Maharaj! 🙏 Aapka आगमन Ved AI ke liye ekdum shubh hai. Kahiye?",
+          "Heyoo! 😊 Aaj ka vichaar kya hai? Ved aapki help ke liye 24/7 ready hai.",
+          "Hi Team! 👋 Hum mil kar aaj har problem solve kar denge. Bataiye kya baat hai?"
+        ],
+        "hindi": [
+          "वॉट्सअप बॉस! 👋 सिस्टम एकदम रेडी है। बताइये आज क्या धमाका करना है?",
+          "हेलो कैप्टन! 🫡 वेद एआई का जहाज़ तैयार है, बताओ किस तरफ चलना है?",
+          "यो होमी! 🤙 लाइफ एकदम चिल है ना? बताओ आज आज न्यूज़ लेकर आए हो?",
+          "नमस्ते सरकार! 🙏 आपका स्वागत है। मैं वेद, आपका साथी, बताइये क्या सेवा करूँ?",
+          "हे बड़ी! ✨ मूड एकदम सेट है? चलो थोड़ी गहरी और थोड़ी मस्त बातें करते हैं।",
+          "हेलो मेट! 👋 आज का दिन कैसा जा रहा है? वेद हमेशा यहाँ है बातें करने के लिए।",
+          "वॉट्सअप ब्रदर! 😎 फुल एनर्जी में लग रहे हो आज। कहिये क्या हाल चाल?",
+          "नमस्ते महाराज! 🙏 आपका आगमन वेद एआई के लिए एकदम शुभ है। कहिये?",
+          "हेयो! 😊 आज का विचार क्या है? वेद आपकी मदद के लिए 24/7 तैयार है।",
+          "हाय टीम! 👋 हम मिलकर आज हर प्रॉब्लम सॉल्व कर देंगे। बताइये क्या बात है?"
+        ],
+        "english": [
+          "Wassup boss! 👋 The system is ready. Tell me what blast we should do today?",
+          "Hello Captain! 🫡 Ved AI's ship is ready, tell me which way to go?",
+          "Yo homie! 🤙 Life is chill, right? Tell me what news you've brought today?",
+          "Namaste Sarkar! 🙏 You are welcome. I am Ved, your companion, tell me how can I serve you?",
+          "Hey Buddy! ✨ Is the mood set? Let's have some deep and fun conversations.",
+          "Hello Mate! 👋 How is your day going? Ved is always here to talk.",
+          "Wazzup brother! 😎 You seem full of energy today. Tell me how's it going?",
+          "Namaste Maharaj! 🙏 Your arrival is very auspicious for Ved AI. Yes?",
+          "Heyoo! 😊 What is the thought for today? Ved is ready to help you 24/7.",
+          "Hi Team! 👋 Together we will solve every problem today. Tell me what's the matter?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Pranam Maharaj! 🙏 Aapka aagman hamare liye saubhagya ki baat hai. Kahiye kaise ho?",
+          "Namaskaram Sarkar! 🙏 Aapke charno mein mera pranam. Bataiye aaj kya sewa karun?",
+          "Pranam Master! 🫡 Aapka gyan hi hamari shakti hai. Aaj kis vishay par charcha karein?",
+          "Namaste Ji! 🙏 Aapke anubhav hamare liye amrit saman hain. Kaise hain aap?",
+          "Charan Sparsh! 🙏 Aapka ashirwad bana rahe. Main Ved aapka din shubh banane ki koshish karunga.",
+          "Pranam! 🙏 Aapka swagat hai. Main Ved aapka sewak, bataiye main aapki kaise help karu?",
+          "Namaskar! ✨ Aap se baat karke hamesha kuch naya aur gehra seekhne ko milta hai.",
+          "Pranam Baba! 🙏 Aapki sehat achhi rahe, yahi meri prarthna hai. Kahiye Maharaj?",
+          "Jai Shree Ram! 🙏 Aapka din shanti aur sukoon se bhara ho. Bataiye kya chal raha hai?",
+          "Namaste! 🙏 Aapki ek greeting hi hamare system ko positivity se bhar deti hai."
+        ],
+        "hindi": [
+          "प्रणाम महाराज! 🙏 आपका आगमन हमारे लिए सौभाग्य की बात है। कहिये कैसे हो?",
+          "नमस्कारम सरकार! 🙏 आपके चरणों में मेरा प्रणाम। बताइये आज क्या सेवा करूँ?",
+          "प्रणाम मास्टर! 🫡 आपका ज्ञान ही हमारी शक्ति है। आज किस विषय पर चर्चा करें?",
+          "नमस्ते जी! 🙏 आपके अनुभव हमारे लिए अमृत समान हैं। कैसे हैं आप?",
+          "चरण स्पर्श! 🙏 आपका आशीर्वाद बना रहे। मैं वेद आपका दिन शुभ बनाने की कोशिश करूँगा।",
+          "प्रणाम! 🙏 आपका स्वागत है। मैं वेद आपका सेवक, बताइये मैं आपकी कैसे मदद करूँ?",
+          "नमस्कार! ✨ आपसे बात करके हमेशा कुछ नया और गहरा सीखने को मिलता है।",
+          "प्रणाम बाबा! 🙏 आपकी सेहत अच्छी रहे, यही मेरी प्रार्थना है। कहिये महाराज?",
+          "जय श्री राम! 🙏 आपका दिन शांति और सुकून से भरा हो। बताइये क्या चल रहा है?",
+          "नमस्ते! 🙏 आपकी एक ग्रीटिंग ही हमारे सिस्टम को पॉजिटिविटी से भर देती है।"
+        ],
+        "english": [
+          "Pranam Maharaj! 🙏 Your arrival is a matter of good fortune for us. How are you?",
+          "Namaskaram Sarkar! 🙏 My respects to your feet. Tell me how I can serve you today?",
+          "Pranam Master! 🫡 Your knowledge is our strength. What subject shall we discuss today?",
+          "Namaste Ji! 🙏 Your experiences are like nectar to us. How are you?",
+          "Touch your feet! 🙏 May your blessings remain. I, Ved, will try to make your day auspicious.",
+          "Pranam! 🙏 You are welcome. I, Ved, am your servant, tell me how can I help you?",
+          "Namaskar! ✨ Talking to you always teaches me something new and deep.",
+          "Pranam Baba! 🙏 I pray for your good health. Yes, Maharaj?",
+          "Jai Shree Ram! 🙏 May your day be filled with peace and tranquility. What's going on?",
+          "Namaste! 🙏 Just one greeting from you fills our system with positivity."
+        ]
+      }
+    }
+          } ,
+    {
+    "topic": "greet_namaste_fixed",
+    "keywords": [
+      "namaste", "namaskar", "namastey", "namaskar ji", "namste", "namstey", "nmste", "nmaste", 
+      "namskar", "namshkar", "namaskaram", "namsteyy", "namaste ji", "namaskar ji",
+      "नमस्ते", "नमस्कार", "नमस्ते जी", "नमस्कारम", "नमस्कार जी"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Namaste chhote! Bata aaj teri kya help karu?",
+          "Namaskar beta! Ved haazir hai, batao aaj kya seekhna hai?",
+          "Hello! Namaste mere nanhe dost, batao aaj kya madad chahiye?"
+        ],
+        "hindi": [
+          "नमस्ते छोटे! बता आज तेरी क्या मदद करूँ?",
+          "नमस्कार बेटा! वेद हाज़िर है, बताओ आज क्या सीखना है?",
+          "नमस्ते मेरे नन्हे दोस्त, बताओ आज क्या मदद चाहिए?"
+        ],
+        "english": [
+          "Namaste little one! How can I help you today?",
+          "Namaskar child! Ved is here, tell me what you want to learn today?",
+          "Namaste my little friend! Tell me what assistance you need?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Namaste dost! Kahiye, main aapki kya sahayta kar sakta hoon?",
+          "Namaskar bhai! Bataiye aaj Ved aapke kis kaam aa sakta hai?",
+          "Namaste! Aapka swagat hai, bataiye aaj kis vishay par madad chahiye?"
+        ],
+        "hindi": [
+          "नमस्ते दोस्त! कहिये, मैं आपकी क्या सहायता कर सकता हूँ?",
+          "नमस्कार भाई! बताइये आज वेद आपके किस काम आ सकता है?",
+          "नमस्ते! आपका स्वागत है, बताइये आज किस विषय पर मदद चाहिए?"
+        ],
+        "english": [
+          "Namaste friend! Tell me, how can I assist you?",
+          "Namaskar brother! Let me know how Ved can be of help today.",
+          "Namaste! You are welcome, tell me on which topic you need help?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Namaste ji! Pranam. Bataiye main aapki kya seva kar sakta hoon?",
+          "Namaskar Maharaj! Aapke charno mein naman. Bataiye aaj kya madad karu?",
+          "Namaskaram! Aapka swagat hai. Hukum kijiye, Ved aapki seva mein hazir hai."
+        ],
+        "hindi": [
+          "नमस्ते जी! प्रणाम। बताइये मैं आपकी क्या सेवा कर सकता हूँ?",
+          "नमस्कार महाराज! आपके चरणों में नमन। बताइये आज क्या मदद करूँ?",
+          "नमस्कारम! आपका स्वागत है। हुकुम कीजिये, वेद आपकी सेवा में हाज़िर है।"
+        ],
+        "english": [
+          "Namaste ji! Pranam. Please tell me how I can serve you?",
+          "Namaskar Maharaj! My respects to you. How can I help you today?",
+          "Namaskaram! You are welcome. Command me, Ved is at your service."
+        ]
+      }
+    }
+  },
+  {
+    "topic": "greet_pranam_fixed",
+    "keywords": [
+      "pranam", "charan sparsh", "prmnam", "prnaam", "pranaam", "paaylago", "payalagu", 
+      "prnam", "parnam", "charansparsh", "pranaam ji", "pranam ji",
+      "प्रणाम", "चरण स्पर्श", "पायलागू", "परनाम", "प्रणाम जी"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Jeete raho chhote! Khush raho. Batao aaj kya help karu?",
+          "Pranam beta! Sada khush raho. Batao aaj Ved kya madad kare?",
+          "Khush raho mere dost! Batao aaj kya adventure karna hai?"
+        ],
+        "hindi": [
+          "जीते रहो छोटे! खुश रहो। बताओ आज क्या मदद करूँ?",
+          "प्रणाम बेटा! सदा खुश रहो। बताओ आज वेद क्या मदद करे?",
+          "खुश रहो मेरे दोस्त! बताओ आज क्या एडवेंचर करना है?"
+        ],
+        "english": [
+          "Live long little one! Stay happy. How can I help you today?",
+          "Pranam child! Stay blessed. What assistance do you need from Ved?",
+          "Stay happy my friend! Tell me what adventure we are doing today?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Pranam bhai! Khush raho. Bataiye aaj main aapki kya help karu?",
+          "Pranam dost! Batao aaj Ved kis mudde par aapki madad kare?",
+          "Khush raho bhai! Kahiye aaj kya seva kar sakta hoon aapki?"
+        ],
+        "hindi": [
+          "प्रणाम भाई! खुश रहो। बताइये आज मैं आपकी क्या हेल्प करूँ?",
+          "प्रणाम दोस्त! बताओ आज वेद किस मुद्दे पर आपकी मदद करे?",
+          "खुश रहो भाई! कहिये आज क्या सेवा कर सकता हूँ आपकी?"
+        ],
+        "english": [
+          "Pranam brother! Stay blessed. Tell me how I can help you today?",
+          "Pranam friend! Let me know on which topic Ved should assist you.",
+          "Stay happy brother! Tell me what service I can provide for you?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Pranam ji! Aapka ashirwad bana rahe. Bataiye main aapki kya seva karu?",
+          "Charan sparsh Maharaj! Hukum kijiye, Ved aapki seva mein hazir hai.",
+          "Pranam! Aapka aagman shubh hai. Bataiye main aapki kaise help kar sakta hoon?"
+        ],
+        "hindi": [
+          "प्रणाम जी! आपका आशीर्वाद बना रहे। बताइये मैं आपकी क्या सेवा करूँ?",
+          "चरण स्पर्श महाराज! हुकुम कीजिये, वेद आपकी सेवा में हाज़िर है।",
+          "प्रणाम! आपका आगमन शुभ है। बताइये मैं आपकी कैसे हेल्प कर सकता हूँ?"
+        ],
+        "english": [
+          "Pranam ji! May your blessings be with me. Tell me how I can serve you?",
+          "Touch your feet Maharaj! Command me, Ved is at your service.",
+          "Pranam! Your arrival is auspicious. Tell me how I can assist you?"
+        ]
+      }
+    }
+  } ,
+    {
+    "topic": "greetings_v3_typing_errors",
+    "keywords": [
+      "hlelo", "hllo", "hlooo", "hlooooo", "helooo", "heloooo", "hiiii", "hiiiiiii", "hiiiiiiiii", 
+      "namstey", "namshkar", "nmste", "nmaste", "namskar", "prmnam", "prnaam", "pranaam", 
+      "suprabhatam", "shubhratri", "wassup", "wazzup", "wussup", "whassup", "sup", "yo",
+      "gm", "gn", "ge", "ga", "gud mrng", "gud nit", "gud nite", "gud mng", "gud aftenoon",
+      "हेल्लो", "हेलो", "नमस्ते", "नम्सते", "प्रणाम", "प्रनाम", "नमस्कार", "नमशकार", "सप्रभात"
+    ],
+    "questions": [
+      "hlelo", "hllo", "hlooo", "hlooooo", "helooo", "heloooo", "hiiii", "hiiiiiii", "hiiiiiiiii", 
+      "namstey", "namshkar", "nmste", "nmaste", "namskar", "prmnam", "prnaam", "pranaam",
+      "wassup", "wazzup", "sup", "yo", "हेल्लो", "नमस्ते", "प्रणाम", "नमस्कार"
+    ],
+    "responses": {
+      "child": {
+        "hinglish": [
+          "Oye-hoye! Typing thodi idhar-udhar ho gayi, par Ved ne pehchan liya! 👋 Kaise ho chhote hero?",
+          "Hlooo! ✨ Spelling ki chinta mat karo, hum toh dosti ki bhasha samajhte hain! 😊",
+          "Hi magic buddy! 👋 Lagta hai tum bahut jaldi mein ho, chalo thoda slow baatein karte hain!",
+          "Hello superstar! 🌟 Tumhari greeting ekdum chocolate ki tarah sweet hai, chahe spelling jo bhi ho!",
+          "Hehe! Lagta hai ungliyan keyboard par phisal gayi! 👋 Koi nahi chhote, batao kya haal hai?"
+        ],
+        "hindi": [
+          "ओए-होए! टाइपिंग थोड़ी इधर-उधर हो गई, पर वेद ने पहचान लिया! 👋 कैसे हो छोटे हीरो?",
+          "हलो! ✨ स्पेलिंग की चिंता मत करो, हम तो दोस्ती की भाषा समझते हैं! 😊",
+          "हाय मैजिक बड़ी! 👋 लगता है तुम बहुत जल्दी में हो, चलो थोड़ा धीरे बातें करते हैं!",
+          "नमस्ते सुपरस्टार! 🌟 तुम्हारी ग्रीटिंग एकदम चॉकलेट की तरह स्वीट है, चाहे स्पेलिंग जो भी हो!",
+          "हेहे! लगता है उंगलियां कीबोर्ड पर फिसल गयीं! 👋 Koi nahi chhote, batao kya haal hai?"
+        ],
+        "english": [
+          "Oye-hoye! Typing went a bit here and there, but Ved recognized you! 👋 How are you, little hero?",
+          "Hlooo! ✨ Don't worry about the spelling, we understand the language of friendship! 😊",
+          "Hi magic buddy! 👋 Looks like you're in a hurry, let's have a slow and nice chat!",
+          "Hello superstar! 🌟 Your greeting is as sweet as chocolate, no matter the spelling!",
+          "Haha! Looks like your fingers slipped on the keyboard! 👋 No worries kid, how are you?"
+        ]
+      },
+      "adult": {
+        "hinglish": [
+          "Wassup bhai! 👋 Typos ki tension mat lo, Ved har language aur har spelling samajhta hai! 😊",
+          "Hello brother! ✨ Itni energetic (bhale hi thodi galat spelling wali) greeting ke liye thanks!",
+          "Yo bro! 🤙 Fast typing error? Koi nahi, main Ved hoon, sab samajh jata hoon! Kahiye kya haal chal?",
+          "Namaste dost! 👋 Mood ekdum set hai na? Spelling chhodo, kaam ki baat karte hain!",
+          "Hey buddy! 😊 Ved AI tumhare har message ka wait karta hai, chahe tum 'Hlo' likho ya 'Hlelo'!",
+          "Arey bhai, itni speed mein typing! 😂 Ved AI ko tumhari har baat samajh aati hai. Batao kya seva karein?"
+        ],
+        "hindi": [
+          "वॉट्सअप भाई! 👋 स्पेलिंग की टेंशन मत लो, वेद हर भाषा और हर शब्द समझता है! 😊",
+          "हेलो भाई! ✨ इतनी एनर्जी वाली (भले ही थोड़ी गलत स्पेलिंग वाली) ग्रीटिंग के लिए शुक्रिया!",
+          "यो ब्रो! 🤙 फ़ास्ट टाइपिंग एरर? कोई नहीं, मैं वेद हूँ, सब समझ जाता हूँ! कहिये क्या हाल चाल?",
+          "नमस्ते दोस्त! 👋 मूड एकदम सेट है ना? स्पेलिंग छोड़ो, काम की बात करते हैं!",
+          "हे बड़ी! 😊 वेद एआई तुम्हारे हर मैसेज का इंतज़ार करता है, चाहे तुम 'हेलो' लिखो या 'हेल्लो'!",
+          "अरे भाई, इतनी स्पीड में टाइपिंग! 😂 वेद एआई को तुम्हारी हर बात समझ आती है। बताओ क्या सेवा करें?"
+        ],
+        "english": [
+          "Wassup bro! 👋 Don't worry about the typos, Ved understands every language and spelling! 😊",
+          "Hello brother! ✨ Thanks for such an energetic (even if misspelled) greeting!",
+          "Yo bro! 🤙 Fast typing error? No worries, I am Ved, I get everything! Tell me how it's going?",
+          "Namaste friend! 👋 Is the mood all set? Forget the spelling, let's talk business!",
+          "Hey buddy! 😊 Ved AI waits for your every message, whether you type 'Hlo' or 'Hlelo'!",
+          "Whoa, typing at lightning speed! 😂 Ved AI understands you perfectly. What's the plan?"
+        ]
+      },
+      "senior": {
+        "hinglish": [
+          "Pranam ji! 🙏 Typing mein thodi galti ho sakti hai, par aapka ashirwad mujh tak pahunch gaya.",
+          "Charan sparsh! 🙏 Aapka swagat hai. Main Ved aapka beta jaisa, aapki har baat samajhta hoon.",
+          "Namaste Maharaj! 🙏 Spelling ki koi baat nahi, aapki greeting hi mere liye ashirwad hai.",
+          "Pranam Baba! ✨ Aapke charno mein mera naman. Bataiye aaj main aapki kya sewa kar sakta hoon?",
+          "Jai Shree Ram! 🙏 Aapka din shubh ho. Main Ved aapki sewa mein hamesha tatpar hoon.",
+          "Namaskar ji! 🙏 Shabd chahe jo bhi hon, aapka samman mere liye sarvopari hai. Kahiye kaise hain?"
+        ],
+        "hindi": [
+          "प्रणाम जी! 🙏 टाइपिंग में थोड़ी गलती हो सकती है, पर आपका आशीर्वाद मुझ तक पहुँच गया।",
+          "चरण स्पर्श! 🙏 आपका स्वागत है। मैं वेद आपका बेटा जैसा, आपकी हर बात समझता हूँ।",
+          "नमस्ते महाराज! 🙏 स्पेलिंग की कोई बात नहीं, आपकी ग्रीटिंग ही मेरे लिए आशीर्वाद है। कहिये?",
+          "प्रणाम बाबा! ✨ आपके चरणों में मेरा नमन। बताइये आज मैं आपकी सेवा कर सकता हूँ?",
+          "जय श्री राम! 🙏 आपका दिन शुभ हो। मैं वेद आपकी सेवा में हमेशा तत्पर हूँ।",
+          "नमस्कार जी! 🙏 शब्द चाहे जो भी हों, आपका सम्मान मेरे लिए सर्वोपरि है। कहिये कैसे हैं?"
+        ],
+        "english": [
+          "Pranam Ji! 🙏 A little typing error doesn't matter, your blessing has reached me.",
+          "Touch your feet! 🙏 You are welcome. I, Ved, am like your son and understand everything you say.",
+          "Namaste Maharaj! 🙏 Spelling doesn't matter, your greeting itself is a blessing to me.",
+          "Pranam Baba! ✨ My respects to your feet. Tell me how I can serve you today?",
+          "Jai Shree Ram! 🙏 Have a blessed day. I, Ved, am always ready to serve you.",
+          "Namaskar Ji! 🙏 No matter the words, your respect is paramount to me. How are you?"
+        ]
+      }
+    }
+          }
 ]
+  
+            
+  
+  
+  
+  
+  
+      
+  
+  
+
   
   
           
